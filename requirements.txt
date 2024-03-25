@@ -1,0 +1,5 @@
+langchain==0.1.13
+unstructured==0.18.0 # Document loading
+chromadb==0.4.24 # Vector storage
+openai==1.14.2 # For embeddings
+tiktoken==0.6.0  # For embeddings
